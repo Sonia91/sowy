@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+    <string name="strix_aluco">Strix aluco</string>
+
+    <string name="bubo_bubo">Bubo bubo</string>
+
+    <string name="tyto_alba">Tyto alba</string>
+
+    <string name="asio_flammeus">Asio flameus</string>
+
+    <string name="athene_noctua">Athene noctua</string>
+
+    <string name="asio_otus">Asio otus</string>
+
+
+</resources>

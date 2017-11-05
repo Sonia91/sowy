@@ -1,0 +1,47 @@
+
+<resources>
+    <string name="app_name">Głosy Sowy</string>
+    <string name="category_bibliography">Bibliografia</string>
+    <string name="category_voices">Głosy</string>
+    <string name="category_description">Opis</string>
+    <string name="puchacz">Puchacz</string>
+    <string name="puchacz_description">Samiec odzywa się najintensywniej w porach wieczornych lub o zmroku. Jest to przerywane co 8-12 sekund, bardzo donośne (słyszane nawet do 5 km) ponure pohukiwanie „pu-hu” lub „PHUoo”. Samica odpowiada tym samym, lecz o oktawę wyższym i ochrypłym głosem. Okrzyki alarmowe są ostre, szczekliwe. Zaniepokojone kłapią też dziobem. W okresie tokowania pod koniec zimy ich hukanie słychać całymi nocami. </string>
+    <string name="puszczyk_zwyczajny">Puszczyk zwyczajny</string>
+    <string name="puszczyk_zwyczajny_description">Typowy głos samca to pohukiwanie (długie "huuu", krótka przerwa, kilka urwanych, przyciszonych dźwięków "hu" i na sam koniec znów przeciągłe, dźwięczne "huuu"). Spełnia funkcję głosu terytorialnego, wabiącego podczas zalotów oraz kontaktowego przy przynoszeniu jedzenia dla samicy. Typowy głos kontaktowy samicy to "kjuwik" (właśnie od tego głosu pochodzi ludowa nazwa puszczyka w niektórych regionach Polski – "kuwik"). </string>
+    <string name="plomykowka">Płomykówka</string>
+    <string name="uszatka_description">Typowy godowy głos samca to niskie, głuche pohukiwanie („huu… huu… huu…”) – pojedyncze dźwięki monotonnie powtarzane wielokrotnie w odstępach 2-3 sekundowych słyszane z daleka. Samica odzywa się zgrzytliwym, wyższym „hyyy”, często w duecie z samcem. Te głosy można usłyszeć wyłącznie w nocy.</string>
+    <string name="plomykowka_description">Płomykówki znane są z wydawanych przez siebie specyficznych okrzyków. Głos samca to wysokie, chrapliwe skrzeczenie trwające średnio 2 sekundy, z przerwami co 1-20 sekund. Nawołuje w locie albo siedząc na drzewie lub dachu budynku. Głos kontaktowy samicy jest wyższy, dźwięczny i bardzo przeraźliwy. </string>
+    <string name="uszatka_blotna">Uszatka błotna</string>
+    <string name="pojdzka">Pójdźka</string>
+    <string name="pojdzka_description">Głos terytorialny samca to przeraźliwe, wysokie „guuk” lub „puuijć” (kojarzące się ze słowem „pójdź” – stąd polska nazwa). Alarmuje krótkim „kju”. Pisklęta dopominają się jedzenia przeciągle sycząc.</string>
+    <string name="uszatka">Uszatka</string>
+    <string name="bibliography">
+
+Puszczyk zwyczajny &#xD;
+Dźwięk: Jarek Matusiak/Xeno-canto &#xD;
+Zdjęcie: Peter Trimming/Flickr &#xD;
+&#xA;
+Puchacz &#xD;
+Dźwięk: Jarek Matusiak/Xeno-canto &#xD;
+Zdjęcie: Softeis/Wikimedia &#xD;
+&#xA;
+Płomykówka  &#xD;
+Dźwięk: Luis Gracia/Xeno-canto &#xD;
+Zdjęcie: Norman West/Flick &#xD;
+&#xA;
+Uszatka błotna &#xD;
+Dźwięk: Lauri Hallikainen/Xeno-canto &#xD;
+Zdjęcie: óskar elías sigurðsson/Flickr &#xD;
+&#xA;
+Pójdźka  &#xD;
+Dźwięk: Bart Gras/Xeno-canto &#xD;
+Zdjęcie:  Peter Trimming/Flickr &#xD;
+&#xA;
+Uszatka &#xD;
+Dźwięk: Jarek Matusiak/Xeno-canto &#xD;
+Zdjęcie: óskar elías sigurðsson/Flickr &#xD;
+&#xA;
+źródło: &#xD;
+głosy-ptaków.pl &#xD;
+wikipedia.pl </string>
+</resources>

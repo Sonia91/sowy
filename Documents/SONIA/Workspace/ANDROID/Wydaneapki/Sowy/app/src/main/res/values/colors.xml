@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="primary_color">#0f3a05</color>
+
+    <color name="primary_dark_color">#0f3a05</color>
+
+    <color name="background">#005b1d</color>
+
+    <color name="tan_background">#0f3a05</color>
+
+    <color name="category_voices">#0f3a05</color>
+
+    <color name="category_description">#0f3a05</color>
+
+    <color name="category_bibliography">#4c4c4c</color>
+
+</resources>

@@ -11,15 +11,9 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-/**
- * Created by sonia on 11/3/17.
- */
-
 public class DescriptionAdapter extends ArrayAdapter<Description> {
 
-
     private int mColorResourceId;
-
 
     public DescriptionAdapter(Context context, ArrayList<Description> descriptions, int colorResourceId) {
         super(context, 0, descriptions);
@@ -28,7 +22,7 @@ public class DescriptionAdapter extends ArrayAdapter<Description> {
 
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
-
+        
         View listItemView = convertView;
         if (listItemView == null) {
             listItemView = LayoutInflater.from(getContext()).inflate(
@@ -37,10 +31,7 @@ public class DescriptionAdapter extends ArrayAdapter<Description> {
 
 
         Description currentDescription = getItem(position);
-
-
         TextView descriptionTextView = (TextView) listItemView.findViewById(R.id.description_text_view);
-
         descriptionTextView.setText(currentDescription.getDescriptionId());
 
 
